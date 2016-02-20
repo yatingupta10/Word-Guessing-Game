@@ -1,0 +1,15 @@
+Lot many improvements can be done to this project
+	- A fixed array of characters has been used in the game to store the words read from a file. This can be made dynamic by using the concept of pointers which will increase the scope.
+
+	- Concept of a timer can be associated with the game while it allows the user to guess the word. If the time is out the software can say that your time is up and show the word to the user. This may increase the productivity in guessing the words fast.
+
+	- One could also add the total score and allow the user to play the game any number of times.
+
+- One could add more options like play the game on
+
+		- Name of the countries
+		- Name of the films
+		- Vocabulary
+
+One could add the graphical version of the game. Currently it’s a text version only.
+
